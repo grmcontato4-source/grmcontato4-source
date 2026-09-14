@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme 👋
 
-<!--
-**grmcontato4-source/grmcontato4-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+
+## Atualmente estudando
+
+- Lógica de programação
+- Desenvolvimento web
+- Java
+- Python
+- JavaScript
+
+## Projetos
+
+Aqui compartilho projetos e exercícios desenvolvidos durante meu curso técnico de ADS, com foco em praticar programação e aprender novas tecnologias.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/grmcontato)
